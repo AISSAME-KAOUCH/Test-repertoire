@@ -3,4 +3,4 @@ TP GIT
 fichier après modification 
 
 
-le changement is camming 
+le changement is camming voire le clonnage
